@@ -20,7 +20,7 @@ setup(name=u'progress_sa',
       needs to be compiled with the -fshort-wchar option and a small
       patch (included in the source distribution) that asks the DataDirect
       ODBC driver for UCS-2.
-      """.encode("utf-8"),
+      """,
       classifiers=[
           'Development Status :: 3 - Alpha',
           'Intended Audience :: Developers',
